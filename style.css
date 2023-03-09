@@ -1,5 +1,5 @@
 body {
-    background: rgb(0, 0, 0);
+    background-color: black;
     color: rgb(255, 255, 255);
     text-align: center;
 }
@@ -9,23 +9,26 @@ h1 {
 }
 
 .pic {
-    background-image: url(byron/bears.jpeg);
+    background-position: center;
+    height: 430px;
+
 }
 
 @media (max-width: 576px) {
     h1 {
         color:rgb(33, 27, 204);
     }
-    body {
-        background:rgb(137, 43, 226)
+    .pic {
+        height:300
+        
     }
 }
 a {
     color: white;
 
-
 }
 
 div {
     text-align: center;
+
 }
