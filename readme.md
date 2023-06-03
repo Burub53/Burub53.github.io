@@ -4,4 +4,4 @@
 
 
 
-### Currently working on 
+### Currently working on adding my live projects to the website as well as an about me to know more about myself and to showcase my photography
