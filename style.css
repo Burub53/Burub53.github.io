@@ -16,7 +16,7 @@ h1 {
 
 @media (max-width: 576px) {
     h1 {
-        color:rgb(33, 27, 204);
+        color:rgb(33, 27, 204)
     }
     .pic {
         height:300
