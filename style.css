@@ -8,10 +8,19 @@ h1 {
     color: rgb(137, 43, 226);
 }
 
+#brandStatment{
+    text-align: justify; 
+}
+
 .pic {
     background-position: center;
     height: 430px;
 
+}
+#letsConnect {
+    text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:x-large;
 }
 
 @media (max-width: 576px) {
